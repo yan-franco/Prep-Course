@@ -1,24 +1,48 @@
 #thirdDiv {
-    height:600px;
-    width: 500px;  
-    background: beige; 
-    padding: 50px; 
-    border: 10px black;
+    margin: 0 auto; 
+    height: 0 auto;
+    width: 900px;  
+    background: #FCF3CF; 
+    padding: 10px; 
+    border: 10px solid black;
 }
 
 #spanId{
-
+    text-align: center;
     font-size: 18px; 
     margin: 50px;
 
 }
 
 h1 {
-
+    text-align: center;
     color: aqua;
 
 }
 
+h2 {
+    text-align: center;
+    color: aqua;
+
+}
+
+a {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: aqua;
+
+}
+
+h4 {
+    text-align: center;
+    color: black;
+
+}
+
 img {
-    width: 400px;
+    margin: 0 auto; 
+    width: 200px;
 }
